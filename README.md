@@ -2,11 +2,15 @@
 
 Welcome to **Create: Post Production**! Create: Post Production is a modpack aimed at pushing Create to its absolute limits. The bulk of the pack's content is centered around the Create mod and its many addons. We have hand-picked and hand-tested every Create addon in this pack, ensuring it fits within the theme of complete automation and industrialization. While centered around the Create mod and its addons, **this pack contains over 300 mods, while still keeping that Vanilla+ Create feel**. The full list of mods can be found below. As mods update, barring any conflicts or incompatibilities, they will also be updated in the pack.
 
+***
+
 ![Create: Post Production - Mod List](https://cdn.modrinth.com/data/cached_images/b14e908e1bea8b783251589a12877c0297a7831a_0.webp)
 <details>
 <summary>Mod List</summary>
 TO-DO
 </details>
+
+***
 
 ![Create: Post Production - FAQ](https://cdn.modrinth.com/data/cached_images/4c361b2e92039710e732f3d062c634f329fea347_0.webp)
 
