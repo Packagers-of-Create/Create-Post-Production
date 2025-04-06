@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Modrinth
+    url: https://modrinth.com/modpacks/createpostproduction
+    about: The modpack's Modrinth page.
+  - name: Wiki
+    url: https://github.com/Packagers-of-Create/Create-Post-Production/wiki
+    about: The modpack's official wiki.
+  - name: Issues
+    url: https://github.com/Packagers-of-Create/Create-Post-Production/issues
+    about: Please make sure there is not already a ticket open regarding your issue/request.
