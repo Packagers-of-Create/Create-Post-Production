@@ -4,15 +4,21 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
-![Create: Post Production - Mod List](https://cdn.modrinth.com/data/cached_images/b14e908e1bea8b783251589a12877c0297a7831a_0.webp)
+![Create: Post Production - Mod List](https://cdn.modrinth.com/data/cached_images/2ed025e37755190582d2d2f343be5c89d8af7677.png)
+
 <details>
 <summary>Mod List</summary>
 TO-DO
 </details>
+<details>
+<summary>Resource Pack List</summary>
+TO-DO
+</details>
+
 
 ***
 
-![Create: Post Production - FAQ](https://cdn.modrinth.com/data/cached_images/4c361b2e92039710e732f3d062c634f329fea347_0.webp)
+![Create: Post Production - FAQ](https://cdn.modrinth.com/data/cached_images/4bb01073ec563c1a049714c5331d0aa07a678e2a.png)
 
 **Q. Can you add x mod?**
 
