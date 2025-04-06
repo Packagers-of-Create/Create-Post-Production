@@ -13,7 +13,7 @@ TO-DO
 
 **Q. Can you add x mod?**
 
-**A.** Check the [master list](https://github.com/kaicardenas2/Create-Post-Production/issue/1) and ensure the mod isn't listed under **Not Planned**. If it isn't, you can submit a [feature request](https://github.com/) and it will be looked into.
+**A.** Check the [master list](https://github.com/kaicardenas2/Create-Post-Production/issues/1) and ensure the mod isn't listed under **Not Planned**. If it isn't, you can submit a [feature request](https://github.com/) and it will be looked into.
 
 **Q. My game is crashing/I am getting x error.**
 
