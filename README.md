@@ -13,11 +13,11 @@ TO-DO
 
 **Q. Can you add x mod?**
 
-**A.** Check the [master list](https://github.com/kaicardenas2/Create-Post-Production/issues/1) and ensure the mod isn't listed. If it isn't, you can submit a [feature request](https://github.com/kaicardenas2/Create-Post-Production/issues/new?template=mod-request.md) and it will be looked into.
+**A.** Check the [master list](https://github.com/Packagers-of-Create/Create-Post-Production/issues/1) and ensure the mod isn't listed. If it isn't, you can submit a [feature request](https://github.com/Packagers-of-Create/Create-Post-Production/issues/new?template=mod-request.md) and it will be looked into.
 
 **Q. My game is crashing/I am getting x error.**
 
-**A.** You can open an [issue](https://github.com/kaicardenas2/Create-Post-Production/issues/new?template=bug-report.md). Make sure to provide steps to be able to recreate the error/crash and we will review it as soon as possible.
+**A.** You can open an [issue](https://github.com/Packagers-of-Create/Create-Post-Production/issues/new?template=bug-report.md). Make sure to provide steps to be able to recreate the error/crash and we will review it as soon as possible.
 
 **Q. How can I support the project?**
 
