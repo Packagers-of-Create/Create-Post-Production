@@ -26,6 +26,6 @@ TO-DO
 
 **A.** Since Create for 1.21.1 released recently, the majority of it's addons are still on 1.20.1. Since they are the core of this modpack, the modpack cannot yet update to 1.21.1. When the majority of its addons are updated the pack will update. Keep in mind this transfer from 1.20.1 to 1.21.1 will not be perfect, and some mods will not transfer over, so **worlds on 1.20.1 most likely will not be comaptible with 1.21.1**. **This modpack will never be backported**, because it is based on Create 6, which is exclusive to 1.20.1 and 1.21.1. As Create updates to newer versions, so will its addons and so will this pack.
 
-**Q. Will there be a Fabric Port?**
+**Q. Will there be a Fabric Pack?**
 
 **A:** Short answer: No. Since this modpack uses mods from both Forge and Fabric (via Sinytra Connector), it must be built on Forge, since there is currently no way to load Forge mods on the Fabric loader (Yes, I am aware that [Kilt](https://github.com/KiltMC) exists, but it is currently not yet in a state where it is playable.) Once Create 6 releases for Fabric **AND** Kilt or an alternative is in a relatively stable state, I will consider making a pack for Fabric.
