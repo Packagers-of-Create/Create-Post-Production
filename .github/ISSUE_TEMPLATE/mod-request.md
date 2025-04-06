@@ -3,7 +3,7 @@ name: Mod Request
 about: Suggest a mod/datapack for the modpack
 title: ''
 labels: mod-request
-assignees: kaicardenas2
+assignees: kaicardenas0618
 
 ---
 

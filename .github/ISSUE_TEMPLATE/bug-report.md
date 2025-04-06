@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a report to help troubleshoot bugs/crashes/issues with the modpack
 title: ''
 labels: bug
-assignees: kaicardenas2
+assignees: kaicardenas0618
 
 ---
 
