@@ -353,4 +353,9 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 **Q. Will there be a Fabric Pack?**
 
-**A:** Short answer: No. Since this modpack uses mods from both Forge and Fabric (via Sinytra Connector), it must be built on Forge, since there is currently no way to load Forge mods on the Fabric loader (Yes, I am aware that [Kilt](https://github.com/KiltMC) exists, but it is currently not yet in a state where it is playable.) Once Create 6 releases for Fabric **AND** Kilt or an alternative is in a relatively stable state, I will consider making a pack for Fabric.
+**A:** Short answer: No. Since this modpack uses mods from both Forge and Fabric (via Sinytra Connector), it must be built on Forge, since there is currently no way to load Forge mods on the Fabric loader (Yes, I am aware that [Kilt](https://github.com/KiltMC) exists, but it is currently not yet in a state where it is playable.) Once Create 6 releases for Fabric **AND** Kilt or an alternative is in a relatively stable state, I will consider making a pack for Fabric
+
+***
+
+Big thanks to the following for allowing use of their CurseForge project in the modpack:
+ - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
