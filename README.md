@@ -15,6 +15,17 @@
 
 ***
 
+<p align="center">
+<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/badge/Modrinth_Webpage-darkgreen?style=flat&logo=modrinth"/></a>
+<a href="https://github.com/Packagers-of-Create/Create-Post-Production">
+<img src="https://img.shields.io/badge/GitHub_Webpage-grey?style=flat&logo=github"/></a>
+<a href="https://patreon.com/simibubi">
+<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon"/></a>
+<a href="https://www.paypal.com/donate?hosted_button_id=ARSFS4HT7Y26A">
+<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal"/></a></p>
+
+***
+
 Welcome to **Create: Post Production**! Create: Post Production is a modpack aimed at pushing Create to its absolute limits. The bulk of the pack's content is centered around the Create mod and its many addons. We have hand-picked and hand-tested every Create addon in this pack, ensuring it fits within the theme of complete automation and industrialization. While centered around the Create mod and its addons, **this pack contains over 300 mods, while still keeping that Vanilla+ Create feel**. The full list of mods can be found below. As mods update, barring any conflicts or incompatibilities, they will also be updated in the pack.
 
 ***
@@ -368,14 +379,3 @@ Big thanks to the following for allowing the use of their CurseForge project in 
  - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
 
 Again, none of this would be possible without the [Create](https://modrinth.com/mod/create) mod, and the efforts of their team and the teams of all of the other mods in this pack. If you enjoy the Create mod and want to support, consider [donating](https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project) to them, as it helps out a ton. **All donation links are to the official Create ones.**
-
-***
-
-<p align="center">
-<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/badge/Modrinth_Page-darkgreen?style=flat&logo=modrinth"/></a>
-<a href="https://github.com/Packagers-of-Create/Create-Post-Production">
-<img src="https://img.shields.io/badge/GitHub_Page-grey?style=flat&logo=github"/></a>
-<a href="https://patreon.com/simibubi">
-<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon"/></a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ARSFS4HT7Y26A">
-<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal"/></a></p>
