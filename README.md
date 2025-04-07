@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/396348f5-adea-4508-bde1-1003c93ec4db" alt="Create: Post Production - Banner"/></p>
+  <img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/main.PNG"/></p>
 
 <p align="center">
 <a href="https://modrinth.com/modpack/createpostproduction/versions"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=Available%20Versions&color=darkgreen" alt="Supported Versions"></a>
@@ -30,7 +30,8 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
-![Create: Post Production - Mod List](https://cdn.modrinth.com/data/cached_images/2ed025e37755190582d2d2f343be5c89d8af7677.png)
+<p align="left">
+<img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/modlist.PNG"/></p>
 
 <details>
 <summary>Mod List</summary>
@@ -349,7 +350,8 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
-![Create: Post Production - FAQ](https://cdn.modrinth.com/data/cached_images/4bb01073ec563c1a049714c5331d0aa07a678e2a.png)
+<p align="left">
+<img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/faq.PNG"/></p>
 
 **Q. Can you add x mod?**
 
@@ -373,7 +375,8 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
-![Create: Post Production - Credits](https://cdn.modrinth.com/data/cached_images/0d03c810a7e2514e458cf9e643bce9da22f48cb8.png)
+<p align="left">
+<img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/credits.PNG"/></p>
 
 Big thanks to the following for allowing the use of their CurseForge project in the modpack:
  - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
