@@ -358,5 +358,9 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
+![Create: Post Production - Credits](https://cdn.modrinth.com/data/cached_images/0d03c810a7e2514e458cf9e643bce9da22f48cb8.png)
+
 Big thanks to the following for allowing the use of their CurseForge project in the modpack:
  - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
+
+Again, none of this would be possible without the [Create](https://modrinth.com/mod/create) mod, and the efforts of their team and the teams of all of the other mods in this pack. If you enjoy the Create mod and want to support, consider [donating](https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project) to them, as it helps out a ton.
