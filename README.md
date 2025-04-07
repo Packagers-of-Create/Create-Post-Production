@@ -368,3 +368,11 @@ Big thanks to the following for allowing the use of their CurseForge project in 
  - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
 
 Again, none of this would be possible without the [Create](https://modrinth.com/mod/create) mod, and the efforts of their team and the teams of all of the other mods in this pack. If you enjoy the Create mod and want to support, consider [donating](https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project) to them, as it helps out a ton. **All donation links are to the official Create ones.**
+
+***
+
+<p align="center">
+<img src="https://img.shields.io/badge/Modrinth_Page-darkgreen?style=flat&logo=modrinth"/>
+<img src="https://img.shields.io/badge/GitHub_Page-grey?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon"/>
+<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal"/></p>
