@@ -16,16 +16,16 @@
 ***
 
 <p align="center">
-<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/badge/Modrinth_Webpage-darkgreen?style=flat&logo=modrinth"/></a>
+<a href="https://modrinth.com/modpack/createpostproduction">
+<img src="https://img.shields.io/badge/Modrinth_Webpage-darkgreen?style=flat&logo=modrinth"/></a>
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production">
 <img src="https://img.shields.io/badge/GitHub_Webpage-grey?style=flat&logo=github"/></a>
 <a href="https://patreon.com/simibubi">
 <img src="https://img.shields.io/badge/Create_on_Patreon-red?style=flat&logo=patreon"/></a>
 <a href="https://www.paypal.com/donate?hosted_button_id=ARSFS4HT7Y26A">
 <img src="https://img.shields.io/badge/Create_on_PayPal-darkblue?style=flat&logo=paypal"/></a>
-<a href ="https://github.com/Packagers-of-Create/Create-Post-Production/wiki">
-<img src="https://img.shields.io/badge/Visit_the_Wiki-BBDDE5?logo=gitbook&logoColor=black
-"/></a></p>
+<a href="https://github.com/Packagers-of-Create/Create-Post-Production/wiki">
+<img src="https://img.shields.io/badge/Visit_the_Wiki-black?logo=gitbook&logoColor=white"/></a></p>
 
 ***
 
