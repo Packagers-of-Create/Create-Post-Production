@@ -4,13 +4,13 @@
 <p align="center">
 <a href="https://modrinth.com/modpack/createpostproduction/versions"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=Available%20Versions&color=darkgreen" alt="Supported Versions"></a>
 <a href="https://modrinth.com/modpack/createpostproduction/versions"><img src="https://img.shields.io/modrinth/v/lhz7PSO0?logo=modrinth&label=Latest%20Version&color=darkgreen" alt="Modrinth"></a>
-<a href="https://modrinth.com/modpack/createpostproductiom"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=Modrinth%20Downloads&color=darkgreen"></a></p>
+<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=Modrinth%20Downloads&color=darkgreen"></a></p>
 
 <p align="center">
 <a href="https://modrinth.com/mod/create/version/1.20.1-6.0.4"><img src="https://img.shields.io/badge/Create_Version-1.20.1--6.0.4-orange?logo=modrinth"></a></p>
 
 <p align="center">
-<a href="https://github.com/Packagers-of-Create/Create-Post-Production/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Packagers-of-Create/Create-Post-Production?logo=github&style=flat&color=900c3f" alt="License"></a>
+<a href="https://github.com/Packagers-of-Create/Create-Post-Production/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Packagers-of-Create/Create-Post-Production?logo=github&style=flat&color=900c3f&label=License" alt="License"></a>
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production/issues"><img src="https://img.shields.io/github/issues/Packagers-of-Create/Create-Post-Production?logo=github&label=Issues"></a></p>
 
 ***
