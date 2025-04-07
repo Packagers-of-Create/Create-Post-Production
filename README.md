@@ -2,6 +2,13 @@
   <img src="https://github.com/user-attachments/assets/396348f5-adea-4508-bde1-1003c93ec4db" alt="Create: Post Production - Banner"/>
 </p>
 
+<a href="https://www.patreon.com/simibubi"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsimibubi%26type%3Dpatrons&style=flat&label=Supporters&color=ff5733" alt="Patreon"></a>
+	<a href="https://www.curseforge.com/minecraft/mc-mods/create/files"><img src="https://cf.way2muchnoise.eu/versions/328085(c70039).svg" alt="Supported Versions"></a>
+	<a href="https://github.com/Creators-of-Create/Create/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Creators-of-Create/Create?style=flat&color=900c3f" alt="License"></a>
+	<a href="https://discord.gg/hmaD7Se"><img src="https://img.shields.io/discord/620934202875183104?color=5865f2&label=Discord&style=flat" alt="Discord"></a>
+	<a href="https://www.curseforge.com/minecraft/mc-mods/create"><img src="http://cf.way2muchnoise.eu/328085.svg" alt="CF"></a>
+    <a href="https://modrinth.com/mod/create"><img src="https://img.shields.io/modrinth/dt/create?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
+
 Welcome to **Create: Post Production**! Create: Post Production is a modpack aimed at pushing Create to its absolute limits. The bulk of the pack's content is centered around the Create mod and its many addons. We have hand-picked and hand-tested every Create addon in this pack, ensuring it fits within the theme of complete automation and industrialization. While centered around the Create mod and its addons, **this pack contains over 300 mods, while still keeping that Vanilla+ Create feel**. The full list of mods can be found below. As mods update, barring any conflicts or incompatibilities, they will also be updated in the pack.
 
 ***
