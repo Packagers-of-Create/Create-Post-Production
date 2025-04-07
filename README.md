@@ -21,6 +21,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 <summary>Mod List</summary>
 
  - 'Dustrial Decor
+ - [EMF] Entity Model Features
  - [ESF] Entity Sound Features
  - [ETF] Entity Texture Features
  - Additional Lanterns
@@ -31,6 +32,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Almost Unified
  - Alternate Current
  - Amplified Nether
+ - Animatica
  - Another Furniture
  - AppleSkin
  - Applied Energistics 2
@@ -41,6 +43,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Armor Statues
  - Ash API
  - Athena
+ - Auto Clicker
  - Autochef's Delight
  - bad packets
  - Bad Wither No Cookie - Reloaded
@@ -65,12 +68,15 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Collective
  - Connector Extras
  - Consistency+
+ - Continuity
  - Controlling
  - Crafting Tweaks
  - Create
  - Create: Addon Compatability
  - Create: Applied Kinetics
+ - Create: Aquatic Ambitions
  - Create: Bells & Whistles
+ - Create: Big Contraptions
  - Create: Blazing Hot
  - Create: Central Kitchen
  - Create: Cobblestone
@@ -85,6 +91,8 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Create: Factory Logistics
  - Create: Food
  - Create: Framed
+ - Create: Interiors
+ - Create: Mechanical Chicken
  - Create: Metalwork
  - Create: Mob Spawners
  - Create: Molten Vents
@@ -103,9 +111,11 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Create: Vibrant Vaults
  - Cull Leaves
  - Curios API
+ - Cut Through
  - Decorative Blocks
  - Delightful
  - Deltabox Lib
+ - Dungeons and Taverns Ancient City Overhaul
  - Dynamic Crosshair
  - Dynamic FPS
  - Easy Anvils
@@ -113,6 +123,8 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Easy Villagers
  - Embeddium
  - EMI
+ - EMI Enchanting
+ - EMI Extra Mod Integrations
  - EMI Loot
  - EMI Trades
  - EMIffect
@@ -129,19 +141,24 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - FerriteCore
  - Food Effect Tooltips
  - Forgematica
+ - Forgified Fabric API
  - Formations
  - Formations Nether
  - FPS Reducer
  - FramedBlocks
  - Fuel Goes Here
+ - Full Brightness Toggle
+ - Fusion
  - Fzzy Config
  - Geckolib
  - Geophilic
+ - Glodium
  - GPUTape
  - Handcrafted
  - Iceberg
  - ImmediatelyFast
  - Immersive Paintings
+ - Immersive UI
  - Inventory Essentials
  - Inventory Sorter
  - Item Collectors
@@ -150,6 +167,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - JamLib
  - Just Enough Items
  - Just Enough Resources
+ - Just Zoom
  - Kambrik
  - Konkrete
  - Kotlin for Forge
@@ -185,6 +203,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Not Enough Crashes
  - Not Enough Recipe Book
  - Nullscape
+ - Ocean's Delight
  - OctoLib
  - OptiGUI
  - Packet Fixer
@@ -193,6 +212,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Patchouli
  - Paxi
  - Player Totem of Undying
+ - Polymorph
  - Polymorphic Energistics
  - Prism
  - Productive Bees
@@ -200,12 +220,15 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - qraftyfied: STRUCTURES
  - Rebalanced Piglin Bartering
  - Rebind Narrator
+ - Repurposed Structures
  - Resourceful Lib
  - RightClickHarvest
  - Sawmill
+ - Seamless
  - Seamless Loading Screen
  - Searchables
  - ServerCore
+ - Shuffle
  - Shulker Box Tooltip
  - Simple Clouds
  - Sinytra Connector
@@ -215,6 +238,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Sophisticated Storage
  - Sophisticated Storage Create Integration
  - Sophisticated Storage in Motion
+ - spark
  - Stoneworks
  - Storage Drawers
  - SuperMartijn642's Config Lib
@@ -260,6 +284,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Repurposed Structures - Better Nether Fortresses Compat
  - Repurposed Structures - Better Ocean Monuments Compat
  - Repurposed Structures - Better Strongholds Compat
+ - Repurposed Structures - Better Witch Huts Compat
  - Repurposed Structures - Bountiful Compat
  - Repurposed Structures - Farmer's Delight Compat
  - Repurposed Structures - Sawmill Compat
@@ -288,6 +313,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Sparkles: Stardust Labs Resource Pack
  - Stained Glass Ultra
  - Suren's Sophisticated Storage
+ - Update Edition
  - Visual Traveler's Titles
 </details>
 
