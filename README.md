@@ -20,9 +20,9 @@
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production">
 <img src="https://img.shields.io/badge/GitHub_Webpage-grey?style=flat&logo=github"/></a>
 <a href="https://patreon.com/simibubi">
-<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon"/></a>
+<img src="https://img.shields.io/badge/Create_on_Patreon-red?style=flat&logo=patreon"/></a>
 <a href="https://www.paypal.com/donate?hosted_button_id=ARSFS4HT7Y26A">
-<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal"/></a></p>
+<img src="https://img.shields.io/badge/Create_on_PayPal-darkblue?style=flat&logo=paypal"/></a></p>
 
 ***
 
