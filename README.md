@@ -372,7 +372,13 @@ Again, none of this would be possible without the [Create](https://modrinth.com/
 ***
 
 <p align="center">
-<img src="https://img.shields.io/badge/Modrinth_Page-darkgreen?style=flat&logo=modrinth"/>
-<img src="https://img.shields.io/badge/GitHub_Page-grey?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon"/>
-<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal"/></p>
+<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/badge/Modrinth_Page-darkgreen?style=flat&logo=modrinth" height="40"/></a></p>
+<p align="center">
+<a href="https://github.com/Packagers-of-Create/Create-Post-Production">
+<img src="https://img.shields.io/badge/GitHub_Page-grey?style=flat&logo=github" height="40"/></a></p>
+<p align="center">
+<a href="https://modrinth.com/modpack/createpostproduction">
+<img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon" height="40"/></a></p>
+<p align="center">
+<a href="https://modrinth.com/modpack/createpostproduction">
+<img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal" height="40"/></a></p>
