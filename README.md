@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/main.PNG"/></p>
+  <img src="https://raw.githubusercontent.com/Packagers-of-Create/Create-Post-Production/refs/heads/main/assets/main.jpg"/></p>
 
 <p align="center">
 <a href="https://modrinth.com/modpack/createpostproduction/versions"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=Available%20Versions&color=darkgreen" alt="Supported Versions"></a>
