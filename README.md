@@ -6,6 +6,9 @@
 <a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a></p>
 
 <p align="center">
+<a href="https://modrinth.com/mod/create"><img src="https://img.shields.io/badge/Create_Version-6.0.4--1.20.1-darkgreen?logo=modrinth"></a></p>
+
+<p align="center">
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Packagers-of-Create/Create-Post-Production?logo=github&style=flat&color=900c3f" alt="License"></a>
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production/issues"><img src="https://img.shields.io/github/issues/Packagers-of-Create/Create-Post-Production?logo=github&label=Issues"></a></p>
 
