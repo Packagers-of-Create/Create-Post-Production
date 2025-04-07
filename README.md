@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/396348f5-adea-4508-bde1-1003c93ec4db" alt="Create: Post Production - Banner"/></p>
 
 <p align="center">
-<a href="https://www.modrinth.com/modpack/createpostproduction/"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Supported Versions"></a>
+<a href="[https://www.modrinth.com/modpack/createpostproduction/"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=Game%20Versions&color=darkgreen" alt="Supported Versions"></a>
 <a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a></p>
 
 <p align="center">
