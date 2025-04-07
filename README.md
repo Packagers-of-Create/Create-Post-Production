@@ -331,7 +331,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Create Energistics
  - Default Dark Mode
  - Default Dark Mode: Expansion
- - Default HD 128x
  - Delightful Plaques
  - Fancy Crops
  - Farcr's Better Dirt
