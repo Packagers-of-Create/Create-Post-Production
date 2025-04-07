@@ -310,6 +310,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Create Energistics
  - Default Dark Mode
  - Default Dark Mode: Expansion
+ - Default HD 128x
  - Delightful Plaques
  - Fancy Crops
  - Farcr's Better Dirt
@@ -357,5 +358,5 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
 
 ***
 
-Big thanks to the following for allowing use of their CurseForge project in the modpack:
+Big thanks to the following for allowing the use of their CurseForge project in the modpack:
  - **Vi_Tul:** [Recolorful Containers (Dark)](https://www.curseforge.com/minecraft/texture-packs/recolourful-containers-gui-hud-dark)
