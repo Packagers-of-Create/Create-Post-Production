@@ -141,7 +141,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Every Compat (Wood Good)
  - Fabric Language Kotlin
  - Farmer's Delight
- - Farmer's Respite
  - Fast Furnace
  - Fast Suite
  - Fast Workbench
@@ -161,7 +160,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Geckolib
  - Geophilic
  - Glodium
- - GPUMemLeakFix
  - GPUTape
  - Handcrafted
  - Hostile Neural Networks
