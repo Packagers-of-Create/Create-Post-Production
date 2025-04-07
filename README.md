@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/396348f5-adea-4508-bde1-1003c93ec4db" alt="Create: Post Production - Banner"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/396348f5-adea-4508-bde1-1003c93ec4db" alt="Create: Post Production - Banner"/></p>
 
+<p align="center">
 <a href="https://www.modrinth.com/modpack/createpostproduction/"><img src="https://img.shields.io/modrinth/game-versions/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Supported Versions"></a>
-<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
-<a href="https://github.com/Packagers-of-Create/Create-Post-Production/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Packagers-of-Create/Create-Post-Production?logo=github&style=flat&color=900c3f" alt="License"></a>
+<a href="https://modrinth.com/modpack/createpostproduction"><img src="https://img.shields.io/modrinth/dt/lhz7PSO0?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a></p>
+
+<p align="center">
+<a href="https://github.com/Packagers-of-Create/Create-Post-Production/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Packagers-of-Create/Create-Post-Production?logo=github&style=flat&color=900c3f" alt="License"></a></p>
+
+***
 
 Welcome to **Create: Post Production**! Create: Post Production is a modpack aimed at pushing Create to its absolute limits. The bulk of the pack's content is centered around the Create mod and its many addons. We have hand-picked and hand-tested every Create addon in this pack, ensuring it fits within the theme of complete automation and industrialization. While centered around the Create mod and its addons, **this pack contains over 300 mods, while still keeping that Vanilla+ Create feel**. The full list of mods can be found below. As mods update, barring any conflicts or incompatibilities, they will also be updated in the pack.
 
