@@ -377,8 +377,8 @@ Again, none of this would be possible without the [Create](https://modrinth.com/
 <a href="https://github.com/Packagers-of-Create/Create-Post-Production">
 <img src="https://img.shields.io/badge/GitHub_Page-grey?style=flat&logo=github" height="40"/></a></p>
 <p align="center">
-<a href="https://modrinth.com/modpack/createpostproduction">
+<a href="https://patreon.com/simibubi">
 <img src="https://img.shields.io/badge/Donate_on_Patreon-red?style=flat&logo=patreon" height="40"/></a></p>
 <p align="center">
-<a href="https://modrinth.com/modpack/createpostproduction">
+<a href="https://www.paypal.com/donate?hosted_button_id=ARSFS4HT7Y26A">
 <img src="https://img.shields.io/badge/Donate_on_PayPal-darkblue?style=flat&logo=paypal" height="40"/></a></p>
