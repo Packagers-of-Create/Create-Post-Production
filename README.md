@@ -217,7 +217,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - MES - Moog's End Structures
  - MidnightLib
  - MiniHUD Extra
- - MNS - Mooc's Nether Structures
+ - MNS - Moog's Nether Structures
  - Model Gap Fix
  - ModernFix
  - Moonlight Lib
