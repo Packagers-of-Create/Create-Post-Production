@@ -49,7 +49,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - AdvancedAE
  - Advancement Plaques
  - AI Improvements
- - Akashic Tome
  - Almost Unified
  - Alternate Current
  - Amplified Nether
@@ -92,7 +91,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Consistency+
  - Continuity
  - Controlling
- - Copper and Tuff Backport
  - Crafting Tweaks
  - Create
  - Create: Addon Compatability
@@ -110,8 +108,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Create: Diamond & Factory
  - Create: Enchantment Industry
  - Create: Ender Transmission
- - Create: Endless Reserves
- - Create: Factory Logistics
+ - Create: Filters Anywhere
  - Create: Food
  - Create: Framed
  - Create: Interiors
@@ -136,6 +133,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Curios API
  - Cut Through
  - Decorative Blocks
+ - Default Options
  - Delightful
  - Deltabox Lib
  - Dungeons and Taverns Ancient City Overhaul
@@ -180,6 +178,7 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Fzzy Config
  - Geckolib
  - Geophilic
+ - Global Server Config
  - Glodium
  - GPUTape
  - Handcrafted
@@ -238,7 +237,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Packet Fixer
  - Palladium
  - Particle Core
- - Patchouli
  - Paxi
  - Placebo
  - Player Totem of Undying
