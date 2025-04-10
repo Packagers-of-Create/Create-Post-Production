@@ -332,8 +332,6 @@ Welcome to **Create: Post Production**! Create: Post Production is a modpack aim
  - Delightful Plaques
  - Fancy Crops
  - Farcr's Better Dirt
- - Farcr's Re-Crafted
- - Farcr's Re-Create
  - Geometric Font Legacy
  - Icon Xaero's
  - Low On Fire
